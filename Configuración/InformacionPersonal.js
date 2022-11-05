@@ -21,6 +21,7 @@ Por el momento estoy buscando nuevos retos y me gusta creer que soy una de las m
 
 Mis valores y como me gusta desenvolverme en los trabajos son: La Familia, La Valentía, La Honestidad, El Esfuerzo y Ser mejor cada día.
 `,
+  AcercaDeMi: `Soy una mujer muy profesional, que ama lo que hace. Soy muy ordenada y super perfeccionista, me gusta leer (Aunque no sea de contabilidad). Me gusta automatizar mis procesos y tratar de innovar cada que veo la oportunidad.`,
 };
 
 //*********************************************************** */
