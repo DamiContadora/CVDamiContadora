@@ -27,10 +27,10 @@ Mis valores y como me gusta desenvolverme en los trabajos son: La Familia, La Va
 // Deja en blanco la red social que no quieras que se muestre
 //*********************************************************** */
 const RedesSociales = {
-  twitter: "https://twitter.com/Bombosch_7",
-  facebook: "https://www.facebook.com/JaimeBoschDesarrollo/",
-  instagram: "https://www.instagram.com/jaimeboschdev/",
-  linkedin: "https://www.linkedin.com/in/jaime-j-gonzalez-bosch-0810461a0/",
+  twitter: "",
+  facebook: "",
+  instagram: "",
+  linkedin: "https://www.linkedin.com/in/damaris-barbosa-moreno-4707b3229/",
 };
 
 //*********************************************************** */
@@ -39,9 +39,9 @@ const RedesSociales = {
 /*
 
 {
-  Skill: "",
+  Skill: "Liderazgo",
   Puntaje: 100,
-  Experiencia: " Años",
+  Experiencia: "2 Años",
 },
 
 */
@@ -49,77 +49,26 @@ const RedesSociales = {
 //*********************************************************** */
 
 const Skills = [
+ {
+  Skill: "Excel Avanzado",
+  Puntaje: 90,
+  Experiencia: "5 Años",
+},
+{
+  Skill: "SAE",
+  Puntaje: 80,
+  Experiencia: "2 Años",
+},
+{
+  Skill: "Conciliaciones bancarias",
+  Puntaje: 80,
+  Experiencia: "6 Años",
+},
   {
-    Skill: "HTML5/Javascript/CSS3",
-    Puntaje: 100,
-    Experiencia: "10 Años",
-  },
-  {
-    Skill: "Window Forms",
-    Puntaje: 100,
-    Experiencia: "8 Años",
-  },
-  {
-    Skill: "C# .NET",
-    Puntaje: 100,
-    Experiencia: "8 Años",
-  },
-  {
-    Skill: "API REST",
-    Puntaje: 100,
-    Experiencia: "7 Años",
-  },
-  {
-    Skill: "Boostrap",
-    Puntaje: 100,
-    Experiencia: "6 Años",
-  },
-  {
-    Skill: "Telerik",
-    Puntaje: 90,
-    Experiencia: "4 Años",
-  },
-  {
-    Skill: "React",
-    Puntaje: 90,
-    Experiencia: "4 Años",
-  },
-  {
-    Skill: "SQL Server",
-    Puntaje: 90,
-    Experiencia: "8 Años",
-  },
-  {
-    Skill: "Window (WCF)",
-    Puntaje: 80,
-    Experiencia: "5 Años",
-  },
-  {
-    Skill: "Xamarin",
-    Puntaje: 80,
-    Experiencia: "5 Años",
-  },
-  {
-    Skill: "Node JS",
-    Puntaje: 80,
-    Experiencia: "2 Años",
-  },
-  {
-    Skill: "React Native",
-    Puntaje: 70,
-    Experiencia: "2 Años",
-  },
-
-  {
-    Skill: "Mongo DB",
-    Puntaje: 70,
-    Experiencia: "2 Años",
-  },
-  {
-    Skill: "KNIME",
-    Puntaje: 70,
-    Experiencia: "1 Año",
-  },
+  Skill: "Determinación y presentación de DIOT",
+  Puntaje: 80,
+  Experiencia: "4 Años",
+},
 ];
 
 //*********************************************************** */
