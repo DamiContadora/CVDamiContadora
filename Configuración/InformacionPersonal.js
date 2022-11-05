@@ -3,27 +3,24 @@
 //*********************************************************** */
 
 const InformacionPersonal = {
-  Nombre: "Jaime",
-  Apellidos: "Bosch",
-  Cargo: "Desarrollador Full Stack Sr",
-  Genero: "Masculino",
-  WebSite: "https://tumentorweb.com.mx",
+  Nombre: "Damaris",
+  Apellidos: "Barbosa",
+  Cargo: "Licenciada en Contabilidad",
+  Genero: "Femenino",
+  WebSite: "----",
   Nacionalidad: "Mexicana",
-  FechaNacimiento: "Enero de 1990",
-  Edad: "32",
-  EstadoCivil: "Casado",
-  Email: "jaimeboschdev@outlook.com",
-  Telefono: "-----",
-  DescripcionCorta: `Especializado en la creación de proyectos desde la arquitectura, backend y el diseño de las aplicaciones.`,
-  DescripcionProfesional: `Amante de la programación con más de 10 años de experiencia trabajando con proyectos de escritorio, web o móviles. Especializado con C#, XAMARIN, SQL, CSS/HTML/JAVASCRIPT, React, REACT NATIVE, SEO, ANALITYCS, API REST, MongoDB.
-  Me considero una persona innovadora y emprendedora, algunos de mis emprendimientos:
+  FechaNacimiento: "Septiembre 1985",
+  Edad: "35",
+  EstadoCivil: "Casada",
+  Email: "dami181010@gmail.com",
+  Telefono: "----",
+  DescripcionCorta: `Soy una amante y apasionada de la contabilidad con mis más de 9 años de experiencia, me gusta involucrarme en proyectos y retos cada vez más grandes y ambiciosos para poder continuar creciendo como profesional y me ayuden en mi camino como emprendedora.`,
+  DescripcionProfesional: `Actualmente soy Co-Fundadora y Contadora de la Startup Tu Encargo App donde ayudamos a los pequeños negocios con sus ventas y sus finanzas.
   
-  "Detalles Cibernéticos",  "Torneos Platino México",  "Tu Mentor Web",  "Hay Paro",  "Tu Encargo App"
+Por el momento estoy buscando nuevos retos y me gusta creer que soy una de las mejores opciones del mercado por mi amplia experiencia tanto en contabilidad como con Startup's, por lo que me emociona aprender cosas nuevas. Por lo que si estás buscando mi perfil, espero poder charlar en alguna ocasión.
 
-  Me gusta aprender día con día algo nuevo. Soy estudiante de Platzi, leer y actualizarme en las nuevas tecnologías es parte de mí para poder innovar cada que se pueda.`,
-  AcercaDeMi: `Jaime Bosch es una persona que siempre está buscando ayudar a la sociedad por medio de la tecnología, me considero una persona emprendedora e innovadora. 
-  
-  Soy proactivo, extrovertido, leal, comunicativo, ordenado, puntual, honesto, responsable y me considero un buen lider. Tengo algunos emprendimientos y mi objetivo es crear un desarrollo que pueda impactar a la sociedad. `,
+Mis valores y como me gusta desenvolverme en los trabajos son: La Familia, La Valentía, La Honestidad, El Esfuerzo y Ser mejor cada día.
+`,
 };
 
 //*********************************************************** */
