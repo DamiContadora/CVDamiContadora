@@ -99,6 +99,12 @@ const Resumen = {
       Titulo: "Licenciatura en Contabilidad", //Dejar en blanco si no hay titulo o diploma
       DescripcionCorta:"Durante mi carrera logre obtener un promedio de 8.9 y logre obtener mi cedula profesional",
   },
+    {
+      Escuela: "Universidad de londres",
+      Periodo: "Agosto 2013 - Junio 2015",
+      Titulo: "", //Dejar en blanco si no hay titulo o diploma
+      DescripcionCorta:"Estudie programación 3 años de mi vida y aunque no acabe, creo que esa experiencia me ayuda a querer innovar todo el tiempo, a querer automatizar mis procesos y ser la mejor en lo que hago.",
+  },
   ],
 };
 
@@ -122,6 +128,18 @@ const Resumen = {
 //*********************************************************** */
 
 const ExperienciaProfesional = [
+    {
+    Cargo: "Contador",
+    Fecha: "Agosto 2021 - Actualmente",
+    Empresa: "Servicio Pan Americano de Protección, S.A. de C.V.",
+    Funciones: [
+      "Facturación",
+      "Revisión de cierres mensuales, elaboración de papeles de trabajo para auditoria, presentado la DIOT",
+      "Aplicando pagos, depurando cuentas, realizando flujo de efectivo",
+      "Cuentas por pagar, registros de ingresos, gastos, provisiones",
+      " Responsable de la contabilidad",
+    ], //Agregar una funcion encerrada en coma y agregar un coma (,) al final de cada función
+  },
   {
     Cargo: "Contador JR",
     Fecha: "MARZO 2015 – Abril 2021",
@@ -135,7 +153,7 @@ const ExperienciaProfesional = [
   },
  {
     Cargo: "Encargada Mesa de Contro",
-    Fecha: "OCTUBRE 2010 – DICIEMBRE 2012",
+    Fecha: "OCTUBRE 2010 – DICIEMBRE 2015",
     Empresa: "COLLECTION MAGNAMENT GROUP",
     Funciones: [
       "Facturación",
