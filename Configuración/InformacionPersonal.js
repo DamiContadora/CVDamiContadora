@@ -86,27 +86,19 @@ const Skills = [
 
 const Resumen = {
   DescripcionCorta: `En esta sección te contare un poco de mi, de mi educación y de mi experiencia laboral`,
-  Mi_Resumen: `Innovador, Alegre y Apasionado por la programación, con más de 13 años de experiencia. Me gusta formar un gran ambiente laboral y en mi caso, aplica el dicho "Trabaja en lo que amas y así, ningun día de tu vida tendrás que trabajar"`,
+  Mi_Resumen: `Innovadora, Alegre y Apasionada por la contabilidad, con más de 8 años de experiencia. Me gusta formar un gran ambiente laboral y en mi caso, aplica el dicho "Trabaja en lo que amas y así, ningun día de tu vida tendrás que trabajar"`,
   Puntos_A_Destacar: [
-    "Cuento con 5 emprendimeintos",
-    "Deportista de alto renidmiento de joven",
-    "Estudiante de Platzi por más de 2 años",
+    "He trabajo para corporativos y para Startups",
+    "Amante de la lectura",
+    "Tuve un emprendimiento con una Starup",
   ],
   Educación: [
-    {
-      Escuela: "ESCUELA DE PLATZI",
-      Periodo: "2019 - 2022",
-      Titulo: "He logrado terminar 5 escuelas completas", //Dejar en blanco si no hay titulo o diploma
-      DescripcionCorta:
-        "Al ser estudiante de platzi ha impulsado mi carrera de una manera increible al aplicar sui lema 'Nunca pares de Aprender'",
-    },
-    {
-      Escuela: "INSTITUTO POLITÉCNICO NACIONAL (IPN)",
-      Periodo: "2008 - 2013",
-      Titulo: "Ing. en Computación", //Dejar en blanco si no hay titulo o diploma
-      DescripcionCorta:
-        "Logre conseguir mi carrera en el IPN, mi segunda casa. Dando el discurso de Graduación de la generación en la que sali.",
-    },
+     {
+      Escuela: "Universidad Milenium",
+      Periodo: "Agosto 2015 - Enero 2019",
+      Titulo: "Licenciatura en Contabilidad", //Dejar en blanco si no hay titulo o diploma
+      DescripcionCorta:"Durante mi carrera logre obtener un promedio de 8.9 y logre obtener mi cedula profesional",
+  },
   ],
 };
 
@@ -131,40 +123,28 @@ const Resumen = {
 
 const ExperienciaProfesional = [
   {
-    Cargo: "Supervising Senior FullStack Developer",
-    Fecha: "2021 - Actual",
-    Empresa: "KPMG México",
+    Cargo: "Contador JR",
+    Fecha: "MARZO 2015 – Abril 2021",
+    Empresa: "PLM México S.A. DE CV.",
     Funciones: [
-      "Project Manager para la automatización de los procesos manuales dentor de la firma",
-      "Creación de Sistemas Web necesarios para la firma",
-      "Creación de API´S necesarias para la firma",
-      "Creación de Aplicaciones Web, Mobile o de escritorio, necesarias para la firma.",
+      "Revisión de cierres mensuales, elaboración de papeles de trabajo para auditoria, presentado la DIOT",
+      "Aplicando pagos, depurando cuentas, realizando flujo de efectivo",
+      "Cuentas por pagar, registros de ingresos, gastos, provisiones",
+      " Responsable de la contabilidad",
     ], //Agregar una funcion encerrada en coma y agregar un coma (,) al final de cada función
   },
-  {
-    Cargo: "Sub-Gerente de Desarrollo",
-    Fecha: "2014-2021",
-    Empresa: "CENTRO CELULAR S.A. de CV.",
+ {
+    Cargo: "Encargada Mesa de Contro",
+    Fecha: "OCTUBRE 2010 – DICIEMBRE 2012",
+    Empresa: "COLLECTION MAGNAMENT GROUP",
     Funciones: [
-      `Liderar a mi equipo de trabajo para poder desarrollar y dar
-      mantenimiento a los sistemas y módulos de la empresa para mejorar el flujo de trabajo de
-      nuestros usuarios.`,
-      "Crear el modelado y todos los controles técnicos necesarios en base de datos (SQL) para poder lanzar a producción los proyectos asignados.",
-      "Testear el proyecto una vez terminado para minimizar los errores que se pudieran presentar.",
-      "Crear videotutoriales y dar capacitación a los usuarios de los sistemas creados.",
+      "Facturación",
+      "Así como reportes de gastos, viáticos",
+      "Atender las solicitudes de los clientes",
+      "Lidereaba de una de las dos mesas de control con las que contaba la empresa",
     ], //Agregar una funcion encerrada en coma y agregar un coma (,) al final de cada función
   },
-  {
-    Cargo: "Desarrollador WEB",
-    Fecha: "2013-2014",
-    Empresa: "ONISVIDA",
-    Funciones: [
-      "Mantenimiento a la página Web",
-      "Creación App informativa",
-      "Soporte técnico",
-      "Creación de Página para cliente",
-    ], //Agregar una funcion encerrada en coma y agregar un coma (,) al final de cada función
-  },
+ 
 ];
 
 //*********************************************************** */
