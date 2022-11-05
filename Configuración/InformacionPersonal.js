@@ -153,7 +153,7 @@ const ExperienciaProfesional = [
     ], //Agregar una funcion encerrada en coma y agregar un coma (,) al final de cada función
   },
  {
-    Cargo: "Encargada Mesa de Contro",
+    Cargo: "Encargada Mesa de Control",
     Fecha: "OCTUBRE 2010 – DICIEMBRE 2015",
     Empresa: "COLLECTION MAGNAMENT GROUP",
     Funciones: [
@@ -179,43 +179,17 @@ const ExperienciaProfesional = [
 //*********************************************************** */
 
 const PorqueDebesContactarme = {
-  Descripcion: `Sí estas buscando crear un proyecto técnologíco, ya sea una página web, una aplicación mobile, una automatización para tu empresa o simplemente un buen desarrollador para tu empresa,
-   yo soy el indicado. Soy un apasionado por la programación, el diseño y la innovación.  Te contare un poco de lo que he hecho en los siguientes puntos, gracias por tu interes. `,
+  Descripcion: `Sí estas buscando alguien que pueda llevar tus finanzas personales, la contabilidad de tu empresa o Startup yo soy la indicada gracias a mi amplia experiencia y mi estrategia de trabajo, donde no solo te ayudare a mantenerte al día, te ayudare a implementar tecnología a tus procesos y podremos innovar juntos. `,
   Motivos: [
     {
-      Titulo: "Tu Mentor Web",
-      Link: "https://tumentorweb.com.mx", // Si no hay un link para redirigir, DEJALO VACÍO.
-      DescripcionCorta: `Tu mentor Web es mi consultora con la que puedes contactar a mi equipo para la cotización y creación de proyectos digitales.`,
-    },
-    {
-      Titulo: "Tu Encargo",
-      Link: "https://tuencargo.com.mx", // Si no hay un link para redirigir, DEJALO VACÍO.
-      DescripcionCorta: `Este proyecto es una aplicación movil donde ayudabamos al comercio local a crear una pequeña tienda en línea, con la finalidad de que pudiera promocionar sus productos con sus vecinos
-  y aunque la pandemia no los dejaba abrir, ellos pudieran seguir vendiendo.`,
-    },
-    {
-      Titulo: "Detalles Ciberneticos",
+      Titulo: "Contabilidad para Corporativos",
       Link: "", // Si no hay un link para redirigir, DEJALO VACÍO.
-      DescripcionCorta: `Este proyecto era una página web donde los clientes compraban una serie de mini juegos en forma de calabozos que se configuraban con fotos de la pareja o información de la relación donde 
-    experimentaban una detalle único para al final llegar a una carta de amor animada.`,
+      DescripcionCorta: `Cuento con una amplia experiencia para poder llevar la facturación, reportes, diot y todo lo necesario para estar al día`,
     },
-    {
-      Titulo: "Torneos Platino Mexico FIFA",
+      {
+      Titulo: "Automatización de procesos",
       Link: "", // Si no hay un link para redirigir, DEJALO VACÍO.
-      DescripcionCorta: `Este proyecto era una página web donde cree una comunidad de jugadores del juego FIFA, con un ranking y creaba torneos para que la comunidad pudiera competir.`,
-    },
-
-    {
-      Titulo: "Hay Paro",
-      Link: "", // Si no hay un link para redirigir, DEJALO VACÍO.
-      DescripcionCorta: `HayParo es un proyecto que cree hace un par de años con mi socio. El proyecto pretendía tener una comunidad que se ayudará para encontrar mascotas extraviadas, para ayudar a encontrar autos robados o para alertar de las zonas
-      más inseguras de la ciudad, con alertas de estabas y robos, donde los ciudadanos pudieran estar más consientes de las zonas que transita.`,
-    },
-    {
-      Titulo: "Más de 10 años de Experiencia",
-      Link: "", // Si no hay un link para redirigir, DEJALO VACÍO.
-      DescripcionCorta: `Como puedes ver estos han sido mis emprendimientos, he estado en proyectos que empiezan desde 0 o he llegado ha proyectos que necesitan mantenimiento, mejoras o hasta un rediseño. 
-      Así que, contáctame y hablemos del proyecto que tienes en mente.`,
+      DescripcionCorta: `He ayudado al área para poder automatizar procesos ya sea con Macros o con tecnologías de tipo ETL`,
     },
   ],
 };
